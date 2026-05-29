@@ -1,6 +1,6 @@
 ---
-layout:default
-title:Welcome to Jack's profile
+layout: default
+title: Welcome to Jack's profile
 ---
 
 #About Me
