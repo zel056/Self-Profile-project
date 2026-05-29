@@ -1,4 +1,4 @@
 My favorite musician:
-Fish Leong
-aMEI
-Khalil Fong
+1. Fish Leong
+2. aMEI
+3. Khalil Fong
